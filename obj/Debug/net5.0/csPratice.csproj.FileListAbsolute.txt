@@ -1,0 +1,16 @@
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.exe
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.deps.json
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.runtimeconfig.json
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.runtimeconfig.dev.json
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.dll
+C:\dev\csPratice\bin\Debug\net5.0\ref\csPratice.dll
+C:\dev\csPratice\bin\Debug\net5.0\csPratice.pdb
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.csproj.AssemblyReference.cache
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.AssemblyInfoInputs.cache
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.AssemblyInfo.cs
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.csproj.CoreCompileInputs.cache
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.dll
+C:\dev\csPratice\obj\Debug\net5.0\ref\csPratice.dll
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.pdb
+C:\dev\csPratice\obj\Debug\net5.0\csPratice.genruntimeconfig.cache
